@@ -32558,7 +32558,7 @@ gk:function(a){var u=this.a,t=u[0],s=u[1],r=u[2]
 u=u[3]
 return Math.sqrt(t*t+s*s+r*r+u*u)}}
 F.z7.prototype={
-L:function(a){return new S.n4(new F.ne("Test Page",null),"Flutter Demo",X.NH(null,C.hk),null)}}
+L:function(a){return new S.n4(new F.ne("Home Page",null),"Flutter Demo",X.NH(null,C.hk),null)}}
 F.ne.prototype={
 aL:function(){return new F.q4(C.p)}}
 F.q4.prototype={
